@@ -1,0 +1,6 @@
+def encrypt(string)
+
+end
+
+p encrypt("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG")
+# => "QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD"
